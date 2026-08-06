@@ -1,0 +1,6 @@
+@PivotTable_MySQL.Server_HostAddress = https://localhost:7086
+
+GET {{PivotTable_MySQL.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
